@@ -92,12 +92,29 @@ O rank no tempo de execução será:
 - Entre esses dois: 2 pontos
 - Caso o programa ultrapasse um limite de tempo razoável ou aconteça estouro de memória: 0 pontos
 
+## Nome: 
+Pedro de Souza Tunin 
+
+## RA: 
+11201811959
+
 ## Entrega 1: DFS, BFS, A*
 
 - Algoritmo escolhido: DFS
 - Requisitos:
     - Python
     - Compilador g++
+
+## Entrega 2: AC-3, Backtracking
+
+- Algoritmo escolhido: Backtracking
+- Requisitos:
+    - Python
+    - Compilador g++
+
+## Vídeo de apresentação
+
+Link: https://www.youtube.com/watch?v=UESLDZ6HVbo
 
 ## Instruções de Compilação/Execução
 
